@@ -16,26 +16,25 @@ Library Management System:
 ## SWOT ANALYSIS
 ![image](https://user-images.githubusercontent.com/77241236/124744047-f5830100-df3b-11eb-9ec1-b8a0c44c20a7.png)
 
-https://drive.google.com/file/d/1OOKl8K1RthXm4J_7MyGPww4k_nmYiTGW/view?usp=sharing
 
 # 4W&#39;s and 1&#39;H
 
 ## Who:
 
-**TBD**
+**Small size libraries can use **
 
 ## What:
 
-**TBD**
+**They can use it to manage the books information based on author, pages, and price. **
 
 ## When:
 
-**TBD**
+**This will useful for smaller inputs and analyses the information by user input**
 
 ## Where:
 
-**TBD**
+**Library Management System can be Run on both os linux and window as well as**
 
 ## How:
 
-**TBD**
+**It will help users to keep thier book information updated and will also enable user to make a analysis on what information they provided on user input**
