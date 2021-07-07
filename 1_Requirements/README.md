@@ -21,11 +21,11 @@ Library Management System:
 
 ## Who:
 
-**Small size libraries can use **
+**Small size libraries can use**
 
 ## What:
 
-**They can use it to manage the books information based on author, pages, and price. **
+**They can use it to manage the books information based on author, pages, and price.**
 
 ## When:
 
