@@ -38,3 +38,12 @@ Library Management System:
 ## How:
 
 **It will help users to keep thier book information updated and will also enable user to make a analysis on what information they provided on user input**
+
+# Detail requirements
+## High Level Requirements:
+
+ID | Description | Status (Implemented/Future)
+|---|---|---|
+ HLR_1|	Library Management System |	Implemented
+ |HR_2|Operating System (Windows 10/Linux)       |Implemented            |
+|HR_3|C language            |Implemented|
