@@ -47,3 +47,12 @@ ID | Description | Status (Implemented/Future)
  HLR_1|	Library Management System |	Implemented
  |HR_2|Operating System (Windows 10/Linux)       |Implemented            |
 |HR_3|C language            |Implemented|
+
+
+## Low Level Requirements
+
+|      ID          |Description                          |Status                         |
+|----------------|-------------------------------|-----------------------------|
+|LR_1| Using add book information, Display informations        |Implemented            |
+|LR_2| Using Structures can retreive from user     |Implemented            |
+|LR_3| Display user entered information     |Implemented            |
