@@ -55,7 +55,7 @@ void book_info(libraries lib[100]){
 	if(flag==1)
 	    printf("  You Entered Nothing\n\n");
 }
-void Books_by_author(libraries lib[100]){
+void books_by_author(libraries lib[100]){
     headMessage("Retrieving Books by Author");
     printf("\n\nEnter author name : ");
 	scanf("%s", ar_nm);
@@ -114,7 +114,7 @@ void menu(){
 		// Take the author name as input
 		// List all books of given author
 		case 3:
-		    Books_by_author(&lib[100]);
+		    books_by_author(&lib[100]);
 			break;
 
 		// Print total count
