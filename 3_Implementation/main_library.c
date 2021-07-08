@@ -10,21 +10,21 @@ char ar_nm[30], bk_nm[30];
 
 // Keep the track of the number of
 // of books available in the library
-int i=0, input=0, count=0;
+int  input=0, count=0;
 // Create Structure of Library
-struct library {
+typedef struct library {
 	char book_name[20];
 	char author[20];
 	int pages;
 	float price;
-};
+}libraries;
 void headMessage(const char *message)
 {
     printf("\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
     printf("\n\t\t%s",message);
     printf("\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
 }
-void add_book(struct library lib[100]){
+void add_book(libraries lib[100]){
     headMessage("ENTER YOUR DETAILS BELOW");
     printf("\nEnter book name = ");
     scanf("%s", lib[count].book_name);
@@ -36,7 +36,7 @@ void add_book(struct library lib[100]){
     scanf("%f", &lib[count].price);
 	count++;
 }
-void book_info(struct library lib[100]){
+void book_info(libraries lib[100]){
     
     printf("\n\t\t\t Displaying... \n\n");
     sleep(1);
@@ -44,7 +44,7 @@ void book_info(struct library lib[100]){
     if(count)
     {
         headMessage("You have entered the following information");
-	    for (i = 0; i < count; i++) {
+	    for (int i = 0; i < count; i++) {
 	        printf("\n\nName of the Book = %s\n",lib[i].book_name);
             printf("Author of the Book = %s",lib[i].author);
             printf("\nNo. of pages = %d",lib[i].pages);
@@ -55,13 +55,13 @@ void book_info(struct library lib[100]){
 	if(flag==1)
 	    printf("  You Entered Nothing\n\n");
 }
-void Books_by_author(struct library lib[100]){
+void Books_by_author(libraries lib[100]){
     headMessage("Retrieving Books by Author");
     printf("\n\nEnter author name : ");
 	scanf("%s", ar_nm);
 	int flag=1;
 	//printf("\n\t\t%s",ar_nm);
-	for (i = 0; i < count; i++) {
+	for (int i = 0; i < count; i++) {
 	    if (strcmp(ar_nm,lib[i].author)== 0){
 	        printf("\n\t\tAuthor: %s",ar_nm);
 	        printf("\nBook Name = %s \nPages in this Book = %d \nPrice of this book= %f\n\n",
@@ -84,7 +84,7 @@ void welcomeMessage(){
     
 }
 void menu(){
-    struct library lib[100];
+    libraries lib[100];
 	// Iterate the loop
 	while (input != 5) {
         headMessage("MAIN MENU");
