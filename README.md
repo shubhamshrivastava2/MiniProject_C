@@ -11,7 +11,5 @@
 [![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/prakash283/MiniProject_C/actions/workflows/CodequalityDynamic.yml/badge.svg)](https://github.com/prakash283/MiniProject_C/actions/workflows/CodequalityDynamic.yml)
 [![CI-Coverage](https://github.com/prakash283/MiniProject_C/actions/workflows/gcov.yml/badge.svg)](https://github.com/prakash283/MiniProject_C/actions/workflows/gcov.yml)
 [![CodeQuality](https://www.code-inspector.com/project/24865/score/svg)](https://www.code-inspector.com/project/24865/score/svg)
-
 [![Contribution Check - Git Inspector](https://github.com/prakash283/MiniProject_C/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/prakash283/MiniProject_C/actions/workflows/gitinspector.yml)
-
 [![CI](https://github.com/prakash283/MiniProject_C/actions/workflows/main.yml/badge.svg)](https://github.com/prakash283/MiniProject_C/actions/workflows/main.yml)
