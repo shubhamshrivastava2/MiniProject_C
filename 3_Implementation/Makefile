@@ -23,7 +23,7 @@ test/test_library_management_system.c
 INC_HEADER = inc
 INC_TEST = unity
 
-#To check if the OS is windows or linux and set the executable file extension and delete command accordingly
+#To check if the OS is windows  or linux and set the executable file extension and delete command accordingly
 ifdef OS
    RM = del /q
    FixPath = $(subst /,\,$1)
