@@ -15,5 +15,5 @@ jobs:
     - uses: actions/checkout@v2
     - name: Install cppcheck
       run: sudo apt -y install cppcheck
-    - name: Run cppcheck
-      run: Run cppcheck 3_Implementation/
+    - name: make cppcheck
+      run: make cppcheck 3_Implementation/
