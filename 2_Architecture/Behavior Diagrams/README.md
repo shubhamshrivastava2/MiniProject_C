@@ -1,9 +1,9 @@
-# Behavior Diagrams
-## Added the implemented Behavior diagrams here.
+# Behavioural Diagrams
 
-## UseCase Diagram
-*![image](https://user-images.githubusercontent.com/77241236/124749505-f0c14b80-df41-11eb-971f-b8b5978a79c1.png)
+## Behavioural high level requirement
 
-## Activity Diagram
-*![image](https://user-images.githubusercontent.com/77241236/124750262-e2bffa80-df42-11eb-9da8-0d0efe714786.png)
+![image](https://user-images.githubusercontent.com/77241236/125315870-2a84be80-e355-11eb-94a4-cf29b6a94dbe.png)
 
+## Behavioural low level requirement
+
+![image](https://user-images.githubusercontent.com/77241236/125315887-2f497280-e355-11eb-962a-9cd52e3f4f28.png)
