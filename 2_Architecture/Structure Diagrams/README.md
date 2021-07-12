@@ -1,11 +1,10 @@
-# Behavior Diagrams
-## Added all the implemented Structure Diagrams here.
+# Structural Diagrams
 
-## Component diagram
- ![image](https://user-images.githubusercontent.com/77241236/124750728-709be580-df43-11eb-9344-034ea68d2e54.png)
+## Structural high level requirement
+![image](https://user-images.githubusercontent.com/77241236/125312537-fe1b7300-e351-11eb-90a0-f668f57e2fe3.png)
 
 
-## Collaboration diagram
- ![image](https://user-images.githubusercontent.com/77241236/124751118-e607b600-df43-11eb-83fe-076b3f5d9841.png)
 
+## Structural low level requirement
+![image](https://user-images.githubusercontent.com/77241236/125312594-0bd0f880-e352-11eb-8659-1dc0a3a16e7e.png)
 
