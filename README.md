@@ -9,7 +9,8 @@
 
 # Badges 
 
-[![C/C++ CI - Build Status](https://github.com/prakash283/MiniProject_C/actions/workflows/c_build.yml/badge.svg)](https://github.com/prakash283/MiniProject_C/actions/workflows/c_build.yml)
+[![C/C++ CI - Build Status on Linux](https://github.com/prakash283/MiniProject_C/actions/workflows/c_build.yml/badge.svg)](https://github.com/prakash283/MiniProject_C/actions/workflows/c_build.yml)
+[![C CI - Build Status on Windows.](https://github.com/prakash283/MiniProject_C/actions/workflows/c-buildWin.yml/badge.svg)](https://github.com/prakash283/MiniProject_C/actions/workflows/c-buildWin.yml)
 [![Unit Testing - Unity](https://github.com/prakash283/MiniProject_C/actions/workflows/unity.yml/badge.svg)](https://github.com/prakash283/MiniProject_C/actions/workflows/unity.yml)
 [![Code Quality - Static Code - Cppcheck](https://github.com/prakash283/MiniProject_C/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/prakash283/MiniProject_C/actions/workflows/cppcheck.yml)
 [![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/prakash283/MiniProject_C/actions/workflows/CodequalityDynamic.yml/badge.svg)](https://github.com/prakash283/MiniProject_C/actions/workflows/CodequalityDynamic.yml)
