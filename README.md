@@ -9,15 +9,14 @@
 
 # Badges 
 
-[![C/C++ CI - Build Status on Linux](https://github.com/prakash283/MiniProject_C/actions/workflows/c_build.yml/badge.svg)](https://github.com/prakash283/MiniProject_C/actions/workflows/c_build.yml)
-[![C CI - Build Status on Windows.](https://github.com/prakash283/MiniProject_C/actions/workflows/c-buildWin.yml/badge.svg)](https://github.com/prakash283/MiniProject_C/actions/workflows/c-buildWin.yml)
-[![Unit Testing - Unity](https://github.com/prakash283/MiniProject_C/actions/workflows/unity.yml/badge.svg)](https://github.com/prakash283/MiniProject_C/actions/workflows/unity.yml)
-[![Code Quality - Static Code - Cppcheck](https://github.com/prakash283/MiniProject_C/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/prakash283/MiniProject_C/actions/workflows/cppcheck.yml)
-[![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/prakash283/MiniProject_C/actions/workflows/CodequalityDynamic.yml/badge.svg)](https://github.com/prakash283/MiniProject_C/actions/workflows/CodequalityDynamic.yml)
-[![CI-Coverage](https://github.com/prakash283/MiniProject_C/actions/workflows/gcov.yml/badge.svg)](https://github.com/prakash283/MiniProject_C/actions/workflows/gcov.yml)
-[![CodeQuality](https://www.code-inspector.com/project/24865/score/svg)](https://www.code-inspector.com/project/24865/score/svg) https://www.code-inspector.com/project/24865/status/svg
-[![Contribution Check - Git Inspector](https://github.com/prakash283/MiniProject_C/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/prakash283/MiniProject_C/actions/workflows/gitinspector.yml)
-[![CI](https://github.com/prakash283/MiniProject_C/actions/workflows/main.yml/badge.svg)](https://github.com/prakash283/MiniProject_C/actions/workflows/main.yml)
+| Build  |    Code coverage    | Code quality |     Unit test       |
+| ------ | -------------       | ------------ |       ---------     |
+|[![C/C++ CI - Build Status on Linux](https://github.com/prakash283/MiniProject_C/actions/workflows/c_build.yml/badge.svg)](https://github.com/prakash283/MiniProject_C/actions/workflows/c_build.yml)[![C CI - Build Status on Windows.](https://github.com/prakash283/MiniProject_C/actions/workflows/c-buildWin.yml/badge.svg)](https://github.com/prakash283/MiniProject_C/actions/workflows/c-buildWin.yml)|[![CI-Coverage](https://github.com/prakash283/MiniProject_C/actions/workflows/gcov.yml/badge.svg)](https://github.com/prakash283/MiniProject_C/actions/workflows/gcov.yml)|[![Code Quality - Static Code - Cppcheck](https://github.com/prakash283/MiniProject_C/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/prakash283/MiniProject_C/actions/workflows/cppcheck.yml)[![Valgrind](https://github.com/prakash283/MiniProject_C/actions/workflows/CodequalityDynamic.yml/badge.svg)](https://github.com/prakash283/MiniProject_C/actions/workflows/CodequalityDynamic.yml)|[![Unit Testing - Unity](https://github.com/prakash283/MiniProject_C/actions/workflows/unity.yml/badge.svg)](https://github.com/prakash283/MiniProject_C/actions/workflows/unity.yml)|
+
+| Git inspector |      Codacy     |  CodeInspector |              |
+| ------ | ------------- | ------------ | --------- |
+|[![Contribution Check - Git Inspector](https://github.com/prakash283/MiniProject_C/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/prakash283/MiniProject_C/actions/workflows/gitinspector.yml)| [![Codacy Badge](https://app.codacy.com/project/badge/Grade/7a8a3c5f6ff340dabf0c82c49b8e017f)](https://www.codacy.com/gh/prakash283/MiniProject_C/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=prakash283/MiniProject_C&amp;utm_campaign=Badge_Grade) | [![CodeQuality](https://www.code-inspector.com/project/24865/score/svg)](https://www.code-inspector.com/project/24865/score/svg)
+ |               |
 
 
 
